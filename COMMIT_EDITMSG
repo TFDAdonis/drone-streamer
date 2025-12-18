@@ -1,0 +1,10 @@
+Prioritize uploaded images when multiple map markers share the same location
+
+Update marker click logic to prioritize stories with uploaded files when multiple markers share identical coordinates, resolving conflicts and ensuring correct story selection.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 5c8c4420-09d2-4e76-8dee-3f92f2fedc61
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: daa9e423-a862-498c-9884-8beef1036bfe
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/d16efd43-5886-4dc5-af0a-29ca2b244f58/5c8c4420-09d2-4e76-8dee-3f92f2fedc61/ASVZ4yK
+Replit-Helium-Checkpoint-Created: true
